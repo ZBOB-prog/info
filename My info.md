@@ -77,7 +77,4 @@
 </div>
 
 </body>
-</html><style>Body {
-  background: linear-gradient(pink, white, pink);
-}
-</style>
+</html>
